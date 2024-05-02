@@ -1,0 +1,12 @@
+export * from './src/spectre-dialog.js';
+export * from './src/spectre-open-dialog.js';
+export * from './src/spectre-t9-dialog.js';
+export * from './src/spectre-receive-dialog.js';
+export * from './src/spectre-seeds-dialog.js';
+export * from './src/spectre-send-dialog.js';
+export * from './src/spectre-send-dialog-mobile.js';
+export * from './src/spectre-receive-dialog-mobile.js';
+export * from './src/spectre-tx-dialog.js';
+export * from './src/spectre-wallet.js';
+export * from './src/spectre-qrscanner-dialog.js';
+export {isMobile, debug, baseUrl} from './src/spectre-wallet.js';

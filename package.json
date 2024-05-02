@@ -1,0 +1,21 @@
+{
+  "name": "@spectre/ux",
+  "version": "1.0.30",
+  "description": "Spectre Wallet User Interface Framework",
+  "main": "spectre-ux.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spectre-project/spectre-ux"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "files": [
+    "spectre-ux.js",
+    "spectre-ux.css",
+    "src",
+    "README.md",
+    "LICENSE",
+    "resources"
+  ]
+}
